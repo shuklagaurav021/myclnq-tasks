@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repository/taskflow-backend.git
+   git clone https://github.com/shuklagaurav021/myclnq-tasks.git
    cd taskflow-backend
    ```
 ````
